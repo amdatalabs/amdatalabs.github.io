@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://amdatalabs.com
+
+# Sitemaps
+Sitemap: https://amdatalabs.com/sitemap.xml
