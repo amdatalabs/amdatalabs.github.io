@@ -93,7 +93,7 @@ export const menuItems = [
         label: 'LinkedIn',
       },
       {
-        path: '#!',
+        path: 'https://twitter.com/AMdatalabs',
         icon: twitter,
         label: 'Twitter',
       },
